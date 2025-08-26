@@ -1,0 +1,16 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Cargar el CSV
+df = pd.read_csv("academic Stress level - maintainance 1.csv")
+
+# Ajustar estilo
+sns.set(style="whitegrid")
+
+# Gráfico de barras para los niveles de estrés
+sns.countplot(data=df, x='Rate your academic stress index ', palette="coolwarm")
+plt.title("Distribución de los Niveles de Estrés Académico")
+plt.xlabel("Nivel de Estrés (1-5)")
+plt.ylabel("Cantidad de Estudiantes")
+plt.show()
