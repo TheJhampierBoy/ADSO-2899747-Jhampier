@@ -4,11 +4,11 @@ services:
     image: postgres:16
     restart: always
     environment:
-      POSTGRES_PASSWORD: n7cuellar
+      POSTGRES_PASSWORD: 12345678
       POSTGRES_USER: postgres
       POSTGRES_DB: flight_management
     ports:
-      - "5432:5432"
+      - "5433:5432"
     networks:
       - network_local_server
     volumes:
@@ -25,7 +25,7 @@ services:
   backend:
     container_name: backend-flight-management
     build:
-      context: .
+      context: ./Backend/FlightManagementSystem
       dockerfile: Dockerfile
     restart: always
     depends_on:
@@ -34,7 +34,7 @@ services:
     environment:
       SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/flight_management?connectTimeout=10&sslmode=prefer
       SPRING_DATASOURCE_USERNAME: postgres
-      SPRING_DATASOURCE_PASSWORD: n7cuellar
+      SPRING_DATASOURCE_PASSWORD: 12345678
     ports:
       - "8081:8081"
     networks:
