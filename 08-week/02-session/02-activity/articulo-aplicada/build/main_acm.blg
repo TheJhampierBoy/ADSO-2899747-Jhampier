@@ -1,0 +1,91 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: build/main_acm.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+The style file: ACM-Reference-Format.bst
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: bibliography/references.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Warning--no key, author in ref1
+Warning--no author, editor, organization, or key in ref1
+Warning--to sort, need author or key in ref1
+Warning--no key, author in ref2
+Warning--no author, editor, organization, or key in ref2
+Warning--to sort, need author or key in ref2
+Warning--no key, author in ref3
+Warning--no author, editor, organization, or key in ref3
+Warning--to sort, need author or key in ref3
+Warning--no key, author in ref4
+Warning--no author, editor, organization, or key in ref4
+Warning--to sort, need author or key in ref4
+Warning--no key, author in ref5
+Warning--no author, editor, organization, or key in ref5
+Warning--to sort, need author or key in ref5
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Warning--no key, author in ref1
+Warning--no key, author in ref1
+Warning--no key, author in ref4
+Warning--no key, author in ref4
+Warning--no key, author in ref3
+Warning--no key, author in ref2
+Warning--no key, author in ref2
+Warning--no key, author in ref5
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--no key, author in ref1
+Warning--empty author in ref1
+Warning--no key, author in ref4
+Warning--empty author in ref4
+Warning--no key, author in ref3
+Warning--empty author in ref3
+Warning--no key, author in ref2
+Warning--empty author in ref2
+Warning--no key, author in ref5
+Warning--empty author in ref5
+You've used 5 entries,
+            6273 wiz_defined-function locations,
+            1534 strings with 19238 characters,
+and the built_in function-call counts, 3304 in all, are:
+= -- 302
+> -- 0
+< -- 0
++ -- 7
+- -- 0
+* -- 206
+:= -- 197
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 20
+chr.to.int$ -- 3
+cite$ -- 56
+duplicate$ -- 380
+empty$ -- 286
+format.name$ -- 0
+if$ -- 785
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 94
+num.names$ -- 0
+pop$ -- 212
+preamble$ -- 1
+purify$ -- 56
+quote$ -- 0
+skip$ -- 134
+stack$ -- 0
+substring$ -- 216
+swap$ -- 20
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 138
+warning$ -- 33
+while$ -- 0
+width$ -- 0
+write$ -- 133
+(There were 33 warnings)

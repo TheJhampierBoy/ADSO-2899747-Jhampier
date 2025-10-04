@@ -1,0 +1,18 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htbp]
+    \centering
+    \includegraphics[width=0.5\textwidth]{graphics/MVC-patron.png}
+    \caption{Modelo vista controlador}
+    \label{fig:mvc}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htbp]
+    \centering
+    \includegraphics[width=0.5\textwidth]{graphics/scrum.png}
+    \caption{Evidencias de trabajo colaborativo}
+    \label{fig:evidencias}
+\end{figure*}

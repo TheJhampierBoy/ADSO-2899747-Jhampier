@@ -1,0 +1,90 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ref1}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Best practices for scientific computing}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004668&type=printable
+      \endverb
+      \verb{url}
+      \verb https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004668&type=printable
+      \endverb
+    \endentry
+    \entry{ref2}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Guía Scrum 2020}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://agilenomadlife.com/wp-content/uploads/2021/07/Guia-Scrum-ORG-2020-Espanol.pdf
+      \endverb
+      \verb{url}
+      \verb https://agilenomadlife.com/wp-content/uploads/2021/07/Guia-Scrum-ORG-2020-Espanol.pdf
+      \endverb
+    \endentry
+    \entry{ref3}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Patrones de diseño en el desarrollo de software}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://www.scielo.org.bo/pdf/ran/v2n4/v2n4_a05.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.org.bo/pdf/ran/v2n4/v2n4_a05.pdf
+      \endverb
+    \endentry
+    \entry{ref4}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{Patrones de diseño}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://d1wqtxts1xzle7.cloudfront.net/57338244/Patrones-libre.pdf?1536616605=&response-content-disposition=inline%3B+filename%3DPatrones_de_diseno_Realizado_por.pdf&Expires=1759201318&Signature=QCQCckZPsVCpNE-vyngiCIOi9eIZppjsaQwLAvw8PAu6tl4ScysSaeg4LPZ9vJKyH~~67s7wQQfVOVLvhaxwbe0PGDQYiLuQZfCvXfi2gwA1YVydmyXAIZA1Xen0GYRP8bLnAoTqLlNnwj63jat7T66buY9yF4FVuJA9XJDySxHH94uXIzTe-5E0Gcz6kxceQFFGI3Z2PlHDAFp-5BpLsqAkmErU9PW2WyoRwjXsMT3LVZ6o7bHEKfl88SsC1TOIbj033SJhI5V3hspT2CDlMBfz4QMMIpveLWPKCqwU4PwqgWPyy~ZRqKXmDRr4xkKxy-lvR3s5rvsP-MFEbq-Pw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+      \endverb
+      \verb{url}
+      \verb https://d1wqtxts1xzle7.cloudfront.net/57338244/Patrones-libre.pdf?1536616605=&response-content-disposition=inline%3B+filename%3DPatrones_de_diseno_Realizado_por.pdf&Expires=1759201318&Signature=QCQCckZPsVCpNE-vyngiCIOi9eIZppjsaQwLAvw8PAu6tl4ScysSaeg4LPZ9vJKyH~~67s7wQQfVOVLvhaxwbe0PGDQYiLuQZfCvXfi2gwA1YVydmyXAIZA1Xen0GYRP8bLnAoTqLlNnwj63jat7T66buY9yF4FVuJA9XJDySxHH94uXIzTe-5E0Gcz6kxceQFFGI3Z2PlHDAFp-5BpLsqAkmErU9PW2WyoRwjXsMT3LVZ6o7bHEKfl88SsC1TOIbj033SJhI5V3hspT2CDlMBfz4QMMIpveLWPKCqwU4PwqgWPyy~ZRqKXmDRr4xkKxy-lvR3s5rvsP-MFEbq-Pw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+      \endverb
+    \endentry
+    \entry{ref5}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{title}{Java programming language}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://calhoun.nps.edu/server/api/core/bitstreams/5a3f8177-beda-4114-829f-69b4b332cd98/content
+      \endverb
+      \verb{url}
+      \verb https://calhoun.nps.edu/server/api/core/bitstreams/5a3f8177-beda-4114-829f-69b4b332cd98/content
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
